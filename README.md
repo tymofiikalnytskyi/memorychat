@@ -129,7 +129,7 @@ memorychat/
 
 **Tymofii Kalnytskyi**  
 CS & AI Student @ Adelphi University  
-[GitHub](https://github.com/tymofiikalnytskyi) · [LinkedIn](https://linkedin.com/in/kalnytskyi)
+[GitHub](https://github.com/tymofiikalnytskyi) · [LinkedIn](https://www.linkedin.com/in/tym-kalnytskyi-15792721b/)
 
 ---
 
